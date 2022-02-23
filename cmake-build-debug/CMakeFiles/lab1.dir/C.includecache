@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/SP/CLionProjects/ADATSZ/lab1/Sumfunctions.h
+
+C:/Users/SP/CLionProjects/ADATSZ/lab1/main.c
+stdio.h
+-
+Sumfunctions.h
+C:/Users/SP/CLionProjects/ADATSZ/lab1/Sumfunctions.h
+stdlib.h
+-
+time.h
+-
+
